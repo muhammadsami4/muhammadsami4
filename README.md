@@ -1,18 +1,71 @@
-<h1>Hi, I'm Muhammad Sami</h1><hr>
-Full Stack Web Developer | Laravel Specialist | Software Engineer (Pakistan 🇵🇰)
+# Muhammad Sami
 
-📧 Email: ms6389788@gmail.com
-    WhatsApp: 03026127158
+**Full Stack Web Developer | Laravel Developer | Software Engineer**
 
- About Me
- Working on Laravel-based web applications & admin dashboards
- Currently learning Advanced Laravel, React integration & system optimization
- Open to collaboration on Laravel apps, REST APIs & dashboards
- Interested in scalable backend architecture & performance tuning
- Ask me about Laravel, PHP, MySQL, React, and API development
- Fun fact: I love turning complex problems into clean, working systems 
+**Email:** ms6389788@gmail.com  
+**WhatsApp:** +92 302 6127158
 
-<!---
-sammiepython/sammiepython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About Me
+
+I am a passionate Full Stack Web Developer with experience in building modern web applications using Laravel, PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap. I enjoy developing scalable, secure, and user-friendly applications while continuously learning new technologies and best practices.
+
+### Currently
+
+- Developing Laravel-based web applications and admin dashboards
+- Learning advanced Laravel, React integration, and system optimization
+- Open to collaborating on Laravel projects, REST APIs, and dashboard development
+- Interested in backend architecture, performance optimization, and clean code
+- Always improving my skills and exploring new technologies
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+- PHP
+- JavaScript
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+
+- Laravel
+- React
+- Bootstrap
+
+### Database
+
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## GitHub Statistics
+
+> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark)
+
+---
+
+## Contact
+
+**Email:** ms6389788@gmail.com
+
+**WhatsApp:** +92 302 6127158
+
+---
+
+Thank you for visiting my GitHub profile.
