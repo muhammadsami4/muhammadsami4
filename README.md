@@ -21,32 +21,6 @@ I am a passionate Full Stack Web Developer with experience in building modern we
 
 ---
 
-## Technical Skills
-
-### Programming Languages
-
-- PHP
-- JavaScript
-- HTML5
-- CSS3
-
-### Frameworks & Libraries
-
-- Laravel
-- React
-- Bootstrap
-
-### Database
-
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-
----
 ## Tech Stack
 
 ### Programming Languages
