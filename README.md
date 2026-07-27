@@ -49,8 +49,6 @@ I am a passionate Full Stack Web Developer with experience in building modern we
 ---
 
 
----
-
 ## Contact
 
 **Email:** ms6389788@gmail.com
