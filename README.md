@@ -10,7 +10,7 @@ Full Stack Web Developer | Laravel Specialist | Software Engineer (Pakistan 🇵
  Open to collaboration on Laravel apps, REST APIs & dashboards
  Interested in scalable backend architecture & performance tuning
  Ask me about Laravel, PHP, MySQL, React, and API development
- Fun fact: I love turning complex problems into clean, working systems ☕
+ Fun fact: I love turning complex problems into clean, working systems 
 
 <!---
 sammiepython/sammiepython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
